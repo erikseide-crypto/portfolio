@@ -14,6 +14,7 @@ const projects = [
 const links = [
   { label: "LinkedIn", url: "https://www.linkedin.com/in/erik-seide/" },
   { label: "GitHub", url: "https://github.com/erikseide-crypto" },
+  { label: "Email", url: "mailto:erik.seide@gmail.com" },
 ];
 
 export default function Home() {
