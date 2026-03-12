@@ -9,6 +9,16 @@ const projects = [
     glow: "rgba(239,68,68,0.3)",
     emoji: "☕",
   },
+  {
+    title: "Basecamp Coffee Loyalty App",
+    description:
+      "A mobile loyalty points tracker with 3 tiers (Bronze, Silver, Gold), rewards catalog, purchase history, and QR code redemption.",
+    url: "https://loyalty-app-ten.vercel.app",
+    tags: ["Next.js", "TypeScript", "QR Code", "Vercel"],
+    color: "#f59e0b",
+    glow: "rgba(245,158,11,0.3)",
+    emoji: "🥇",
+  },
 ];
 
 const links = [
